@@ -65,4 +65,10 @@ TankZone/Assets/Settings/*
 TankZone/Library/*
 TankZone/Temp/*
 TankZone/ProjectSettings/*
+TankZone/Assets/Materials/*
+TankZone/Assets/Models/*
+TankZone/Assets/AudioClips/*
+TankZone/Assets/Sprites/*
+TankZone/Assets/TankAssets/*
+TankZone/obj/*
 
