@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+TankZone/Assets/ExampleAssets/*
+TankZone/Assets/Presets/*
+TankZone/Assets/TutorialInfo/*
+TankZone/Assets/Settings/*
+TankZone/Library/*
+TankZone/Temp/*
+TankZone/ProjectSettings/*
+
