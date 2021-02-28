@@ -8,13 +8,6 @@ public class DisplayNameSelector : MonoBehaviour
 
     public PlayerProfile profile;
 
-    public GameObject otherUi;
-
-    private void OnEnable()
-    {
-        otherUi.SetActive(false);
-    }
-
     public void DisplayNameChanged()
     {
         string value = displayNameInput.text;
@@ -33,6 +26,5 @@ public class DisplayNameSelector : MonoBehaviour
         profile.SetDisplayName(displayNameInput.text);
 
         gameObject.SetActive(false);
-        otherUi.SetActive(true);
     }
 }
